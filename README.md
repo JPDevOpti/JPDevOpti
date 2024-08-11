@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">HI, I'm Juan Pablo</a> 👋</h1>
+</div>
+<img src="https://imgur.com/HkjfqNW.png">
 
-<!--
-**JPDevOpti/JPDevOpti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🧑‍🎓 Engineering student 
+- 🪐 Love for physics and astronomy 
+- 🧠 Specialist in Computational Neurosciences 
+- 🖥️ Data analysis specialist
+- 🤖 Specialist in AI developments
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
