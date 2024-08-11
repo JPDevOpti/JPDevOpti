@@ -1,7 +1,10 @@
 <div align="center">
 <h1 align="center">HI, I'm Juan Pablo</a> 👋</h1>
 </div>
-<img src="https://imgur.com/HkjfqNW.png">
+<p align="center">
+  <img src="https://imgur.com/HkjfqNW.png" alt="Centered Image">
+</p>
+
 
 ## About Me
 
