@@ -84,18 +84,6 @@ I am a **Bioengineer and Physical Engineer** passionate about physics, astronomy
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-restrepo-mancilla-aa1930235/)
 juanpablorestrepo2020@gmail.com
 
 </div>
-
----
-
-<div align="center">
-
-### 💡 "Innovation distinguishes between a leader and a follower." - Steve Jobs
-
-⭐️ From [Juan Pablo](https://github.com/TU_USUARIO)
-
-</div>
-
