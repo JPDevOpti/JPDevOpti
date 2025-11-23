@@ -5,18 +5,18 @@
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/ba4CppJ.jpg" alt="Juan Pablo" width="300" style="border-radius: 50%;">
+  <img src="https://i.imgur.com/ba4CppJ.jpg" alt="Juan Pablo" width="450" style="border-radius: 50%;">
 </p>
 
 <div align="center">
 
-### 🔬 Bioengineer & Physical Engineer | 🧠 Computational Neurosciences | 🤖 AI Developer
+### 💻 Web Application Developer
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨About Me
 
 I am a **Bioengineer and Physical Engineer** passionate about physics, astronomy, and computational sciences. I specialize in computational neurosciences, data analysis, and artificial intelligence developments. My goal is to combine scientific knowledge with advanced programming techniques to solve complex problems and contribute to the advancement of scientific research.
 
@@ -28,24 +28,7 @@ I am a **Bioengineer and Physical Engineer** passionate about physics, astronomy
 
 ---
 
-## 💼 Specialties
-
-<div align="center">
-
-### 📊 Data Analyst
-Transforming data into actionable insights through statistical techniques and advanced visualization
-
-### 🤖 Artificial Intelligence Expert
-Developing and implementing machine learning and deep learning models to solve complex problems
-
-### 💻 Web Application Developer
-Creating modern, scalable, and efficient web applications with the latest technologies
-
-</div>
-
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -68,23 +51,6 @@ Creating modern, scalable, and efficient web applications with the latest techno
 </div>
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=TU_USUARIO&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
-
-</div>
-
----
-
-
-
 
 ## 📞 Contact
 
