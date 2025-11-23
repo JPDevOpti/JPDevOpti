@@ -6,7 +6,7 @@
 
 <p align="center">
 
-  <img src="https://imgur.com/a/fVYkuSH" alt="Centered Image">
+  <img src="[https://imgur.com/a/fVYkuSH](https://imgur.com/ba4CppJ)" alt="Centered Image">
 
 </p>
 
