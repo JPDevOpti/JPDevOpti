@@ -6,8 +6,7 @@
 
 <p align="center">
 
-  <img src="[https://imgur.com/a/fVYkuSH](https://imgur.com/ba4CppJ)" alt="Centered Image">
-
+https://imgur.com/ba4CppJ
 </p>
 
 ## About Me
