@@ -29,6 +29,8 @@ I am a **Bioengineer and Physical Engineer** passionate about physics, astronomy
 ---
 
 ## Tech Stack
+
+### Programming Languages
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,6 +43,7 @@ I am a **Bioengineer and Physical Engineer** passionate about physics, astronomy
 
 </div>
 
+### Databases
 <div align="center">
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -49,6 +52,7 @@ I am a **Bioengineer and Physical Engineer** passionate about physics, astronomy
 
 </div>
 
+### AI Tools
 <div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -58,6 +62,7 @@ I am a **Bioengineer and Physical Engineer** passionate about physics, astronomy
 
 </div>
 
+### Frameworks
 <div align="center">
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -69,6 +74,7 @@ I am a **Bioengineer and Physical Engineer** passionate about physics, astronomy
 
 </div>
 
+### Tools
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -84,7 +90,7 @@ I am a **Bioengineer and Physical Engineer** passionate about physics, astronomy
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-restrepo-mancilla-aa1930235/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Juanpablorestrepo2020@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Juanpablorestrepo2020@gmail.com) juanpablorestrepo2020@gmail.com
 
 </div>
 
