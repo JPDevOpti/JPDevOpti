@@ -6,55 +6,34 @@
 
 <p align="center">
 
-  <img src="https://imgur.com/HkjfqNW.png" alt="Centered Image">
+  <img src="https://imgur.com/a/fVYkuSH" alt="Centered Image">
 
 </p>
 
-## Sobre Mí
+## About Me
 
-Soy estudiante de ingeniería apasionado por la física, la astronomía y las ciencias computacionales. Me especializo en neurociencias computacionales, análisis de datos y desarrollos de inteligencia artificial. Mi objetivo es combinar el conocimiento científico con técnicas avanzadas de programación para resolver problemas complejos y contribuir al avance de la investigación científica.
+I am a Bioengineer and Physical Engineer passionate about physics, astronomy, and computational sciences. I specialize in computational neurosciences, data analysis, and artificial intelligence developments. My goal is to combine scientific knowledge with advanced programming techniques to solve complex problems and contribute to the advancement of scientific research.
 
-- Estudiante de Ingeniería
-- Apasionado por la física y la astronomía
-- Especialista en Neurociencias Computacionales
-- Especialista en análisis de datos
-- Especialista en desarrollos de IA
+- Bioengineer and Physical Engineer
+- Passionate about physics and astronomy
+- Specialist in Computational Neurosciences
+- Data Analysis Specialist
+- AI Development Specialist
 
-## Especialidades
+## Specialties
 
-- **Analista de Datos**: Transformación de datos en insights accionables mediante técnicas estadísticas y visualización avanzada
-- **Experto en Inteligencia Artificial**: Desarrollo e implementación de modelos de machine learning y deep learning para resolver problemas complejos
-- **Desarrollador de Aplicativos Web**: Creación de aplicaciones web modernas, escalables y eficientes con las últimas tecnologías
+- **Data Analyst**: Transforming data into actionable insights through statistical techniques and advanced visualization
+- **Artificial Intelligence Expert**: Developing and implementing machine learning and deep learning models to solve complex problems
+- **Web Application Developer**: Creating modern, scalable, and efficient web applications with the latest technologies
 
-## Estadísticas de GitHub
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=dark"/>
 
-</div>
 
-## Proyectos Destacados
+## Contact
 
-- Proyecto 1: Descripción breve del proyecto
-- Proyecto 2: Descripción breve del proyecto
-- Proyecto 3: Descripción breve del proyecto
-
-## Contacto
-
-- LinkedIn: [tu-perfil-linkedin](https://linkedin.com/in/tu-perfil)
-- Email: tu-email@ejemplo.com
-- Twitter: [@tu-usuario](https://twitter.com/tu-usuario)
+- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)
+- Email: your-email@example.com
+- Twitter: [@your-username](https://twitter.com/your-username)
 
 ---
-
-<div align="center">
-
-Desarrollado con pasión por Juan Pablo
-
-</div>
-
-
-
 
