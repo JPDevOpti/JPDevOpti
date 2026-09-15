@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 HI, I'm Juan Pablo
+#  HI, I'm Juan Pablo
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🤖 IA Specialist | 💻 Web Application Developer | 📊 Data Analysis Specialist
+###  IA Specialist |  Web Application Developer |  Data Analysis Specialist
 
 </div>
 
@@ -20,11 +20,11 @@
 
 I am a **Bioengineer and Physical Engineer** passionate about physics, astronomy, and computational sciences. I specialize in computational neurosciences, data analysis, and artificial intelligence developments. My goal is to combine scientific knowledge with advanced programming techniques to solve complex problems and contribute to the advancement of scientific research.
 
-- 🎓 Bioengineer and Physical Engineer
-- 🌌 Passionate about physics and astronomy
-- 🧠 Specialist in Computational Neurosciences
-- 📊 Data Analysis Specialist
-- 🤖 AI Development Specialist
+-  Bioengineer and Physical Engineer
+-  Passionate about physics and astronomy
+-  Specialist in Computational Neurosciences
+-  Data Analysis Specialist
+-  AI Development Specialist
 
 ---
 
